@@ -1,0 +1,2 @@
+npm install
+nom update
